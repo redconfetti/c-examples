@@ -1,5 +1,5 @@
 CFLAGS=-Wall -g
 
-all: hello
+all: main
 clean:
-	rm -f hello
+	rm -f main
