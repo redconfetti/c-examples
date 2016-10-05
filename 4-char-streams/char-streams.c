@@ -1,6 +1,9 @@
 #include <stdio.h>
 
-// copy intput to output; 1st version
+/*
+  copy intput to output; 1st version
+  NOTE: The Unix convention is that Control-D is used to indicate end-of-file (EOF).
+*/
 int main(int arg, char *argv[]) {
   int c;
   c = getchar();
