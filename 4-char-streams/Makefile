@@ -1,5 +1,5 @@
 CFLAGS=-Wall -g
 
-all: char-streams
+all: main
 clean:
-	rm -f char-streams
+	rm -f main

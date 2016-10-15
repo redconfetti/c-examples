@@ -1,5 +1,5 @@
 CFLAGS=-Wall -g
 
-all: temp-table
+all: main
 clean:
-	rm -f temp-table
+	rm -f main
