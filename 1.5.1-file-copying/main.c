@@ -11,5 +11,5 @@ int main(int arg, char *argv[]) {
     putchar(c);
     c = getchar();
   }
-  return 0;
+  return(0);
 }

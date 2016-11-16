@@ -11,5 +11,5 @@ int main(int arg, char *argv[]) {
   for (fahr = LOWER; fahr <= UPPER; fahr = fahr + STEP)
     printf("%3d %6.1f", fahr, (5.0/9.0)*(fahr-32));
 
-  return 0;
+  return(0);
 }

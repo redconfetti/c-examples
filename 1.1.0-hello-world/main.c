@@ -4,5 +4,5 @@
 // $ cc -o hello main.c
 int main(int arg, char *argv[]) {
   printf("hello, world\n");
-  return 0;
+  return(0);
 }

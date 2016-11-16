@@ -20,5 +20,5 @@ int main(int arg, char *argv[]) {
     }
   }
   printf("%d %d %d\n", n1, nw, nc);
-  return 0;
+  return(0);
 }

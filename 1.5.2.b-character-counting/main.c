@@ -8,5 +8,5 @@ int main(int arg, char *argv[]) {
   for (nc = 0; getchar() != EOF; ++nc)
     ;
   printf("%.0f\n", nc);
-  return 0;
+  return(0);
 }

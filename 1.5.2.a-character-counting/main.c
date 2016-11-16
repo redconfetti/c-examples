@@ -12,5 +12,5 @@ int main(int arg, char *argv[]) {
   while (getchar() != EOF)
     ++nc;
   printf("%ld\n", nc);
-  return 0;
+  return(0);
 }
