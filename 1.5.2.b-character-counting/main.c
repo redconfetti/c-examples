@@ -3,7 +3,7 @@
 /*
   The normal Unix convention is that Control-D is used to indicate end-of-file (EOF).
 */
-int main(int arg, char *argv[]) {
+int main() {
   double nc;
   for (nc = 0; getchar() != EOF; ++nc)
     ;

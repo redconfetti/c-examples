@@ -3,7 +3,7 @@
 #define IN 1    /* inside a word */
 #define OUT 0   /* outside a word */
 
-int main(int arg, char *argv[]) {
+int main() {
   int c, n1, nw, nc, state;
 
   state = OUT;

@@ -5,7 +5,7 @@
 #define STEP 20     // step size
 
 // Prints Fahrenheit-Celsius table
-int main(int arg, char *argv[]) {
+int main() {
   float fahr, celsius;
 
   printf("\nFahrenheit\tCelsius\n");

@@ -5,7 +5,7 @@
 #define STEP 20     /* step size */
 
 // Prints Fahrenheit-Celsius table
-int main(int arg, char *argv[]) {
+int main() {
   int fahr;
 
   for (fahr = LOWER; fahr <= UPPER; fahr = fahr + STEP)

@@ -5,7 +5,7 @@
 
   See misc/getchar-test for inspecting the getchar function
 */
-int main(int arg, char *argv[]) {
+int main() {
   long nc;
   nc = 0;
 

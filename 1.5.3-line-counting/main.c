@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /* count lines in input */
-int main(int arg, char *argv[]) {
+int main() {
   int c, nl;
 
   nl = 0;

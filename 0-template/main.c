@@ -1,5 +1,5 @@
 #include <stdio.h>
 
-int main(int arg, char *argv[]) {
+int main() {
   return(0);
 }
