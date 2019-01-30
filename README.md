@@ -13,9 +13,18 @@ how certain methods operate.
 
 To make use of these examples, you'll need to install `gcc` and `make`.
 
+### Linux
+
+```shell
+sudo apt-get install gcc
+sudo apt-get install make
 ```
-$ sudo apt-get install gcc
-$ sudo apt-get install make
+
+### Mac
+
+```shell
+brew install gcc
+brew install make
 ```
 
 ## Makefiles
